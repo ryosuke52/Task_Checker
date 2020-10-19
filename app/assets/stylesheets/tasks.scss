@@ -1,0 +1,19 @@
+// Place all the styles related to the tasks controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+@charset "UTF-8";
+@import url("//unpkg.com/element-ui@2.13.2/lib/theme-chalk/index.css");
+
+.el-row {
+  padding-top: 60px;
+}
+
+.hidden {
+  display: none;
+}
+
+.tasks {
+  margin-top: 50px;
+  margin-left: 200px;
+}

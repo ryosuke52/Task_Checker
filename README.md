@@ -1,5 +1,5 @@
 # Task Checker
-![スクリーンショット 2020-10-19 16 44 17](https://user-images.githubusercontent.com/63440102/96416163-9bfe6900-122a-11eb-865f-3f8b17c92f01.png)
+![スクリーンショット 2020-10-19 22 49 37](https://user-images.githubusercontent.com/63440102/96459961-aab24380-125d-11eb-8ddb-9a65c042b5a7.png)
 
 
 1. アプリケーションの概要  

@@ -20,7 +20,7 @@
 * データベース    →   MySQL
 * 言語　          →   HTML / CSS / JavaScript / Ruby 
 * フレームワーク  →   Vue.js / Rails
-* ライブラリ      →   webpacker / Element
+* ライブラリ      →   webpack / Element
 
 
 
